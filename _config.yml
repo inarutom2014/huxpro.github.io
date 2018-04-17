@@ -1,7 +1,7 @@
 # Site settings
 title: iNarutom Blog
 SEOTitle: 偶尔会发笑的博客 | iNarutom Blog
-header-img: img/home-bg.jpg
+header-img: img/unsplash.jpg
 email: inarutom2014@gmail.com
 description: "自童年期，我便独自一人，照顾着历代星辰 | 游戏开发程序员"
 keyword: "iNarutom, 游戏开发"
@@ -86,7 +86,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
